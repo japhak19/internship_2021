@@ -1,0 +1,11 @@
+Import java.io;
+ public class racer {
+   public static void main(String args[]){
+     public int age = 19;
+    If(age < 18){
+        System.out.println(You can't race);
+    }else{
+        System.out.println(You can race);
+     }
+  }
+}
